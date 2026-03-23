@@ -11,9 +11,10 @@
 
 ## 📥 Descarga
 
-Puedes descargar el programa directamente para empezar a monitorear tu sistema:
+Puedes descargar la versión oficial de HWiNFO (Gratuita para uso no comercial) desde los siguientes enlaces:
 
-> ### 🚀 [Descargar HWiNFO 💻](./descarga) (archivo ".exe")
+> ### 🚀 [Descargar HWiNFO Installer 📀](https://www.hwinfo.com/files/hwi_800.exe) (Instalador estándar)
+> ### 📦 [Descargar HWiNFO Portable 📂](https://www.hwinfo.com/files/hwi_800.zip) (Sin instalación)
 
 ---
 
@@ -27,8 +28,8 @@ Puedes descargar el programa directamente para empezar a monitorear tu sistema:
 
 ## 🚀 Cómo empezar
 
-1. Descarga el software desde el enlace superior incluido en el repositorio.
-2. Ejecuta el archivo e inicia la aplicación (puedes elegir la versión portátil para evitar la instalación).
+1. Descarga el software desde los enlaces superiores.
+2. Ejecuta el archivo e inicia la aplicación (se recomienda la versión **Portable** para diagnósticos rápidos).
 3. Al abrir HWiNFO, selecciona el modo de inicio deseado:
     * **Sensors-only:** Para ver todas las temperaturas, voltajes y frecuencias en tiempo real.
     * **Summary-only:** Para una vista rápida del modelo de procesador, placa y gráfica.
